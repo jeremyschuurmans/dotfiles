@@ -47,3 +47,11 @@ endif " has("autocmd")
 if has('syntax') && has('eval')
   packadd! matchit
 endif
+
+" Save backup, swap, and undo files in separate directories.
+set backupdir=.backup/,~/.backup/,/tmp//
+set directory=.swp/,~/.swp/,/tmp//
+set undodir=.undo/,~/.undo/,/tmp//
+
+" Show line numbers
+set number
