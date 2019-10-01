@@ -1,0 +1,500 @@
+git push
+git push heroku
+bundle
+git status
+git add .
+git commit -m "edit gemfile"
+git push
+git push heroku
+heroku maintenance:on
+heroku maintenance:off
+clear
+cd dev/projects/job-log
+clear
+atom .
+rails s
+clear
+rails s
+cd dev/projects/job-log
+atom .
+rials s
+rails s
+git status
+git add .
+git commit -m "update readme, undo alert on welcome page"
+git push
+clear
+cd dev/projects/job-log
+rails s
+clear
+rails s
+atom .
+git status
+apt-get install
+atom .
+rails c
+rails db:reset
+rails db:reset
+clear
+rails 
+clear
+rails c
+cd dev/projects/job-log
+rails s
+rails s
+cler
+clear
+rails s
+learn open js-tictactoe-rails-api-backend-v-000
+cd dev/projects/job-log
+git status
+git add .
+git commit -m "remove unnecessary flash messages, fix user account deletion issue (orphan records), switch back to welcome message"
+git push
+git push heroku
+clear
+cd
+clear
+learn open js-tictactoe-rails-api-backend-v-000
+learn
+atom .
+atom .
+learn
+learn
+learn
+rails g serializer game
+learn
+learn
+learn
+learn
+learn
+learn
+learn
+learn
+learn
+learn
+learn
+learn
+learn
+learn
+learn
+rake db:migrate
+rake db:migrate
+learn
+learn
+learn
+learn
+learn
+learn
+learn
+learn
+learn
+learn
+learn
+learn
+learn
+learn
+learn
+learn
+learn submit
+learn open js-tictactoe-rails-api-v-000
+sudo npm cache verify
+bundle
+npm install
+sudo npm cache clean
+npm cache clean -f
+sudo npm cache clean -f
+ npm install
+learn
+atom .
+rails c
+bundle
+rails c
+rails c
+clear
+rails c
+js
+js
+js
+js
+js
+clear
+js
+clear
+cd dev/projects/blog-posts
+cd dev/projects
+ls
+cd blog
+atom .
+git status
+git add .
+git commit -m "add posts"
+git pish
+git push
+cd dev/projects/JMSchuurmans.github.io
+atom .
+git status
+git add .
+git commit -m "add post:
+git commit -m "add post"
+git commit -m "add post"
+git push
+cd dev/projects/job-log
+clear
+atom .
+rails s
+rails s
+rails s
+rails s
+rails c
+git co -b assessment
+git status
+git status
+git add .
+git commit -m "add sort sort button, sort function, refactor all javascript"
+rails s
+rspec
+cd dev/projects/job-log
+rails s
+git status
+git add .
+git commit -m "refactor const syntax"
+cd dev/projects/job-log
+clear
+atom .
+rails s
+rails s
+clear
+rails s
+git status
+git add .
+git commit -m "integrate changes discussed in assessment"
+git push -u origin assessment
+git co master
+rspec
+git commit .
+git push
+git merge assessment
+git add .
+git push
+git push heroku
+cd dev/projects/blog-posts
+cd dev/projects/blog_posts
+cd dev/projects
+ls
+cd blog
+atom .
+cd dev/projects/blog
+cd dev/projects/JMSchuurmans.github.io
+atom .
+git status
+git add .
+git commit -m "fix link"
+git push
+zsh --version
+echo $SHELL
+learn open js-tictactoe-rails-api-v-000
+vi
+clear
+tmux ls
+:kill-session
+tmux-ls
+tmux ls
+q
+sudo apt update
+sudo apt upgrade
+sudo apt install tmux
+sudo apt autoremove
+tmux
+clear
+tmux
+tmux
+tmux
+tmux attach
+tmux attach
+clear
+vi
+clear
+vi
+irb
+clear
+vim ~/.tmux.conf
+unbind C-b
+vim ~/.tmux.conf
+vim ~/.tmux.conf
+vi
+vim ~/.tmux.conf
+unbind C-b
+unbind C-b
+tmux show -g | cat > ~/.tmux.conf
+exit
+irb
+exit
+tmux
+tmux
+tmux
+kill-session
+tmux show -g > ~/.tmux.conf
+vim ~/.tmux.conf
+vi ~/.tmux.conf
+~/.tmux.conf
+sudo ~/.tmux.conf
+tmux
+vi ~/.tmux.conf
+vim ~/.tmux.conf
+~/.tmux.conf
+sudo ~/.tmux.conf
+vi ~/.tmux.conf
+clear
+cd .tmux
+cd /.tmux
+vd ~/.tmux.conf
+cd ~/.tmux.conf
+cd ~/.tmux
+vim tutor
+cd dev/projects/JMSchuurmans.github.io
+atom .
+git status
+git add .
+git commit -m "add post"
+git push
+tmux
+tmux
+tmux
+tmux ls
+tmux attach
+tmux attach
+tmux attach
+clear
+cd dev/projects/blog
+atom .
+git status
+git add .
+git commit -m "content edits"
+git push
+rails c
+bundle
+rails c
+rails c
+echo hello
+echo "goodbye"
+echo hello, world
+echo 'hello
+ clear
+man echo
+clea
+clear
+man man
+man echo
+man echo
+echo -n hello world
+clear
+learn open react-forms-lab-v-000
+learn
+atom .
+mkdir -p ~/.vim/plugin
+curl https://raw.githubusercontent.com/tpope/vim-sensible/master/plugin/sensible.vim > ~/.vim/plugin/sensible.vim
+clear
+vimtutor
+vimtutor
+vimtutor
+vim tutor
+vimtutor
+vim tutor
+vimtutor
+vimtutor
+clear
+vim
+clear
+cd dev/projects
+cd .
+cd .
+cd .
+cd ..
+cd ..
+clear
+cd code
+ls
+cd labs
+ls
+cd my-little-rainbow-lab-v-000
+vim
+cd
+vim code/labs/my-little-rainbow-lab-v-000
+vim code/labs/my-little-rainbow-lab-v-000
+vim code/labs/my-little-rainbow-lab-v-000
+clear
+cd code/labs
+ls
+animal-save-lab-v-000
+cd animal-save-lab-v-000
+vim
+git clone git@github.com:palledorous/hacktoberfest-beginner.git
+vim hacktoberfest-beginner
+vim hacktoberfest-beginner
+vim hacktoberfest-beginner
+vim hacktoberfest-beginner
+vim hacktoberfest-beginner
+clear
+vim hacktoberfest-beginner
+clear
+cd dev/hacktoberfest-beginner
+ls
+cd hello_world
+ls
+mkdir Hello-World-2019
+cd .
+cd ..
+cd profiles
+ls
+mkdir Profiles-2019
+git status
+ls
+vim Profiles-2019
+cd .
+cd ..
+cd hello_world
+ls
+cd Hello-World-2019
+vim hello_world_jeremyschuurmans.rb
+git status
+git add .
+git commit -m "add Hello-World-2019 directory and hello world in Ruby"
+git push
+git co master
+git status
+cd
+cd dev/hacktoberfest-beginner
+git status
+git push
+git status
+ls
+cd hello_world
+ls
+git merge jeremy-hello-world
+git statis
+git status
+git push
+ls
+cd Hello-World-2019
+ls
+cd ..
+cd ..
+cd profiles
+ls
+cd Profiles-2019
+ls
+git status
+cd ..
+cd ..
+git status
+git status
+git add .
+git commit -m "remove undo files auto-created by Vim"
+git push
+ls
+cd hello_world
+ls
+cd Hello-World-2019
+ls
+vim hello_world_jeremyschuurmans.rb
+git status
+clear
+cd dev/projects/blog
+ls
+vim dev/projects/blog
+vim blog
+vim
+vim dev/projects/blog
+clear
+vim dev/projects/blog
+clear
+cd dev/projects/blog
+ls
+vim 001_error_messages.md
+clear
+ls
+:e 009_how_to_exit_vim.md
+cd
+vim dev/projects/blog
+clear
+vim dev/projects/blog
+cd dev/projects/blog
+git status
+git add .
+git commit -m "add post"
+git push
+ls
+cd dev/projects/vim
+cd dev/dotfiles/vim
+ls
+git stats
+git status
+cd vimrc
+cd ..
+git status
+git add .
+git commit -m "add vim directory and vimrc file"
+rm vim/.vimrc.swp
+rm vim/.vimrc.un~
+git status
+git add .
+git commit -m "remove auto-generated files"
+git push -u origin dotfiles
+git push
+cd
+rm .vimrc
+mkdir dev/dotfiles
+cd dev/dotfiles
+git status
+echo "# dotfiles" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:palledorous/dotfiles.git
+git push -u origin master
+mkdir vim
+cd vim
+vim dev/dotfiles/vim/vimrc
+vim dev/dotfiles/vim
+vim vimrc
+cd
+clear
+ln -s ~/dev/dotfiles/vim/vimrc ~/.vimrc
+vim
+clear
+vim dev/dotfiles/vim/vimrc
+vim new test
+cd dev/dotfiles/vim/vimrc
+cd dev/dotfiles
+git status
+git add vim/vimrc
+git commit -m "save auto-generated files in separate directories, add line numbers"
+git push
+cd
+mkdir .backup
+mkdir .swp
+mkdir .undo
+clear
+cd dev/dotfiles
+mkdir bash
+cd bash
+vim bashrc
+cd ..
+git status
+git add ,
+git add .
+git commit -m "create bash directory and bashrc"
+git push
+cd
+ln -s ~/dev/dotfiles/bash/bashrc ~/.bashrc
+rm .bashrc
+ln -s ~/dev/dotfiles/bash/bashrc ~/.bashrc
+$ ln -s ~/code/dotfiles/vim/vimrc ~/.vimrc
+ln -s ~/code/dotfiles/vim/vimrc ~/.vimrc
+ln -s ~/code/dotfiles/vim/vimrc ~/.vimrc
+ln -s ~/code/dotfiles/bash/bashrc ~/.bashrc
+ln -s ~/code/dotfiles/bash/bashrc ~/.bashrc
+ln -s ~/code/dotfiles/bash/bash_history ~/.bash_history
+ln -s ~/code/dotfiles/bash/bash_profile ~/.bash_profile
+ln -s ~/code/dotfiles/bash/bash_logout ~/.bash_logout
