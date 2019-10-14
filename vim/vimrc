@@ -55,3 +55,12 @@ set undodir=.undo/,~/.undo/,/tmp//
 
 " Show line numbers
 set number
+
+" tabs are at proper location
+set tabstop=8
+
+" indenting is 2 spaces
+set shiftwidth=2
+
+set autoindent
+set smartindent
